@@ -6,7 +6,7 @@
 
 <html>
   <head>
-    <title> Welcome to the future </title>
+    <title>Welcome to the future</title>
 
   </head>
   
